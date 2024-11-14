@@ -1,13 +1,10 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ovinda Rathnayeka</h1>
 <h3 align="center">👨‍💻 Tech Enthusiast | Full-Stack Developer | Lifelong Learner from Sri Lanka 🌍</h3>
 
-<!-- Animation or Image -->
 <p align="center">
     <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="400"/>
 </p>
 
-<!-- Profile Views & Social Links -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ovinda-rathnayeka&label=Profile%20views&color=0e75b6&style=flat" alt="ovinda-rathnayeka" /> 
     <a href="https://linkedin.com/in/ovinda-rathnayeka-835122206" target="blank">
@@ -27,105 +24,73 @@
 
 ---
 
-<h3 align="center">🚀 Connect with me on Social Media 🚀</h3>
+<h3 align="center">📊 GitHub Stats 📊</h3>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ovinda-rathnayeka&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🔹 My Tech Stack 🔹</h3>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <strong>Java:</strong> Experienced with Java for backend and object-oriented programming.
+</p>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <strong>JavaScript:</strong> Proficient in JavaScript for web development, especially with React and Node.js.
+</p>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <strong>HTML5:</strong> Skilled in creating structured, accessible web pages with HTML5.
+</p>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <strong>CSS3:</strong> Adept at styling web pages with CSS, including frameworks like Bootstrap.
+</p>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <strong>C++:</strong> Familiar with C++ for system-level programming and algorithms.
+</p>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <strong>MongoDB:</strong> Experienced with MongoDB for managing NoSQL databases in MERN stack projects.
+</p>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <strong>MySQL:</strong> Skilled in SQL for relational database management and queries.
+</p>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    <strong>AWS:</strong> Working knowledge of Amazon Web Services for cloud computing and deployment.
+</p>
+
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+    <strong>Google Cloud Platform:</strong> Hands-on experience with GCP for cloud infrastructure and services.
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with me on Social Media 🌐</h3>
+
 <p align="center">
     <a href="https://linkedin.com/in/ovinda-rathnayeka-835122206" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sahanovinda886@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
-
-### Frontend Development
-<p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-</p>
-
-### Backend Development
-<p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-</p>
-
-### Programming Languages
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-</p>
-
-### Databases
-<p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    </a>
-</p>
-
-### Cloud & Other Tools
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    </a>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ovinda-rathnayeka&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovinda-rathnayeka" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🌐 Find Me Online 🌐
-- LinkedIn: [Ovinda Rathnayeka](https://linkedin.com/in/ovinda-rathnayeka-835122206)
-- Email: sahanovinda886@gmail.com
-
----
-
-This layout provides a sleek, organized look with additional headers, icons, and categories that make it easy to read and visually engaging. Each section is clearly labeled, and the icons enhance the overall design.
