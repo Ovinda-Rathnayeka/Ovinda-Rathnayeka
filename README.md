@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ovinda Rathnayeka</h1>
-<h3 align="center">👋 Hi, I'm Ovinda Rathnayeka, a passionate 22-year-old tech enthusiast and campus student from Sri Lanka. I'm skilled in a variety of programming languages and frameworks, including Java, JavaScript, HTML, CSS, C++, C, MERN stack, React, and Kotlin. Constantly exploring new technologies and building my skills, I'm excited to contribute to and learn from the open-source community. Let's code something amazing together!</h3>
+<h3 align="center">👨‍💻 A passionate tech enthusiast and campus student from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="center">
+    <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="400"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ovinda-rathnayeka&label=Profile%20views&color=0e75b6&style=flat" alt="ovinda-rathnayeka" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ovinda-rathnayeka&label=Profile%20views&color=0e75b6&style=flat" alt="ovinda-rathnayeka" /> 
+    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **MERN stack, React , Kotlin**
+- 🌱 I’m currently enhancing my skills in **MERN stack, React, and Kotlin**.
+- 📫 Reach me at **sahanovinda886@gmail.com**
+- ⚡ Fun fact: **A good code editor theme and a strong cup of coffee are my coding essentials!**
 
-- 📫 How to reach me **sahanovinda886@gmail.com**
-
-- ⚡ Fun fact **I believe that a good code editor theme and a strong cup of coffee are essential for any successful coding session!**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ ovinda-rathnayeka-835122206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ovinda-rathnayeka-835122206" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/ovinda-rathnayeka-835122206" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -91,7 +98,12 @@
     </a>
 </p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ovinda-rathnayeka&show_icons=true&locale=en&layout=compact" alt="ovinda-rathnayeka" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ovinda-rathnayeka&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ovinda-rathnayeka&" alt="ovinda-rathnayeka" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovinda-rathnayeka" alt="GitHub Streak Stats" />
+</p>
